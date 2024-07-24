@@ -1,4 +1,4 @@
-![logo](https://github.com/Kartikeya070/Kartikeya070/blob/main/vasu.png_page-0001.jpg)
+![logo](https://github.com/Kartikeya070/Kartikeya070/blob/main/VASU1(2.0)_page-0001.jpg)
 <h1 align="center">Hi 👋, I'm kartikeya</h1>
 <h3 align="center">A passionate Coder</h3>
 
